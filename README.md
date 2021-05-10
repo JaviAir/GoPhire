@@ -15,10 +15,10 @@ Wtih this library you can
 
 Methods DownloadFile(), UploadFile(), and GetFileAttributes() can take in optional paramters.
 These optional parameters can be:
-  * CustomBucket         string
-	* ConnTimeout          int
-	* Permission           fs.FileMode
-	* ShowStatusPercentage bool
+* CustomBucket         string
+* ConnTimeout          int
+* Permission           fs.FileMode
+* ShowStatusPercentage bool
 
 # Download File
  Arg1: string of destination path/name to save file as.
